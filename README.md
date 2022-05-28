@@ -4,8 +4,8 @@ greeshmaravula/greeshmaravula is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### Greeshma Ravula 🐼
-Junior Web Developer | Data Science Enthusiast | NewGrad 2021 | Open for new opportunities
+### Greeshma Ravula 
+Junior Web Developer | Data Science Enthusiast | New Graduate 2021 | Open for new opportunities
 
 ### 👋 About 
 
@@ -39,6 +39,9 @@ Machine Learning, Blockchain Technology
 ### 📫 How to reach me
 - 🌐 LinkedIn: [Greeshma Ravula](https://www.linkedin.com/in/ravulagreeshma)
 - 📧 Email: ravulagreeshma15@gmail.com
+
+### 📌 Open for networking and discussing new opportunities
+
 
 <!--
 **LaxmanSinghTomar/LaxmanSinghTomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
