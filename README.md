@@ -33,7 +33,7 @@ Paving my path while working towards advancing my technical skill set in leverag
 ### 🔭 I’m currently working on
 I am currently working as junior web developer where I am responsible for building an interactive website from UI/UX design to launching website
 
-### - 🌱 I’m currently learning 
+### 🌱 I’m currently learning 
 Machine Learning, Blockchain Technology 
 
 ### 📫 How to reach me
