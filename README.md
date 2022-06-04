@@ -9,7 +9,7 @@ Junior Web Developer | Data Science Enthusiast | New Graduate 2021 | Open for ne
 
 ### 👋 About 
 
-Hi, I’m @greeshmaravula! A recent graduate student from Asian Institute of Technology specialized in Information Management. Data is what drives me. I have been a long-time enthusiastic of Data Science. Over the past two years, I have been working with large datasets from collecting, interpreting, analyzing and visualizing data to building various deep learning models.
+Hi, I’m Greeshma! A recent graduate student from Asian Institute of Technology specialized in Information Management. Data is what drives me. I have been a long-time enthusiastic of Data Science. Over the past two years, I have been working with large datasets from collecting, interpreting, analyzing and visualizing data to building various deep learning models.
 
 My diligent and dedicated attitude towards my work and responsibilities with the potential to learn quickly and self-start has always keeps me driven and on my feet, which makes me a good fit for an opportunity to efficiently work in a fast-paced IT environment
 
