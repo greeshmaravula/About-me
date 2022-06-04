@@ -27,7 +27,7 @@ Paving my path while working towards advancing my technical skill set in leverag
 - Deep Learning: RNN, LSTM, GRU, Transformers
 - UI/UX design tools: Figma, Balsamiq
 - Project Management methods and tools:Agile -SCRUM, Trello
-- Other Tools:Jupyter Notebook, Visual studio, Pycharm, Latex, Eclipse, Rationalrose (UML), Superdecision
+- Other Tools:Jupyter Notebook, Google Colab,  Visual studio, Pycharm, Latex, Eclipse, Rationalrose (UML), Superdecision
 
 
 ### 🔭 I’m currently working on
