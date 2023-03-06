@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Greeshma Ravula 
-Junior Web Developer | Data Science Enthusiast | New Graduate 2021 | Open for new opportunities
+Junior Web Developer | Data Science Enthusiast | Graduate 2021 | Open for new opportunities
 
 ### 👋 About 
 
